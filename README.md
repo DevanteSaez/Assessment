@@ -1,5 +1,7 @@
 README,
 
+Welcome to my first Repository,
+
 Following code is for the first assignment that was given to us in week one.
 
 Just below is changes i made to the different codes which are HTML and CSS
@@ -9,3 +11,4 @@ I did not do much to the HTML code only added a title and added my ALTS to the i
 
 Changes to CSS,
 Moved most of the classes to follow the same structure of the HTML code since that would make the most sense.
+Added some extremely run down and basic notes on what the code will do in the CSS code.  
